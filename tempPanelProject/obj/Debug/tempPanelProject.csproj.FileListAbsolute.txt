@@ -1,0 +1,11 @@
+C:\Users\GCoder\source\repos\tempPanelProject\tempPanelProject\bin\Debug\tempPanelProject.exe.config
+C:\Users\GCoder\source\repos\tempPanelProject\tempPanelProject\bin\Debug\tempPanelProject.exe
+C:\Users\GCoder\source\repos\tempPanelProject\tempPanelProject\bin\Debug\tempPanelProject.pdb
+C:\Users\GCoder\source\repos\tempPanelProject\tempPanelProject\obj\Debug\tempPanelProject.csproj.AssemblyReference.cache
+C:\Users\GCoder\source\repos\tempPanelProject\tempPanelProject\obj\Debug\tempPanelProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\GCoder\source\repos\tempPanelProject\tempPanelProject\obj\Debug\tempPanelProject.Form1.resources
+C:\Users\GCoder\source\repos\tempPanelProject\tempPanelProject\obj\Debug\tempPanelProject.Properties.Resources.resources
+C:\Users\GCoder\source\repos\tempPanelProject\tempPanelProject\obj\Debug\tempPanelProject.csproj.GenerateResource.cache
+C:\Users\GCoder\source\repos\tempPanelProject\tempPanelProject\obj\Debug\tempPanelProject.csproj.CoreCompileInputs.cache
+C:\Users\GCoder\source\repos\tempPanelProject\tempPanelProject\obj\Debug\tempPanelProject.exe
+C:\Users\GCoder\source\repos\tempPanelProject\tempPanelProject\obj\Debug\tempPanelProject.pdb
